@@ -87,5 +87,3 @@ Si te interesa colaborar en proyectos de software, educación o tecnología con 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom Banner" />
 </p>
-
-<p align="center"><strong>Gracias por pasarte por aquí 😊 ¡Te deseo buen código y cafés cargados! ☕</strong></p>
