@@ -24,13 +24,14 @@ Soy **Estudiante de desarrollo de software** de Ocaña, Norte de santander (Colo
 ## 🧠 Mi enfoque profesional
 
 ```text
-Aprender → Construir → Enseñar → Mejorar
+Explorar → Aplicar → Analizar → Optimizar
 ```
 
-- **Aprender:** mantengo una rutina constante de estudio técnico y pedagógico.
-- **Construir:** desarrollo proyectos con foco en calidad, escalabilidad y valor real.
-- **Enseñar:** traduzco conceptos complejos en explicaciones claras y prácticas.
-- **Mejorar:** itero continuamente a partir de feedback y métricas.
+- **Explorar:** profundizo en conceptos de física, programación y electrónica, buscando entender tanto la teoría como su aplicación real.
+- **Aplicar:** desarrollo proyectos prácticos (como simuladores, sistemas con Arduino o sitios web) priorizando funcionalidad y claridad.
+- **Analizar:** interpreto resultados experimentales y datos (laboratorios, mediciones, gráficas) para sacar conclusiones sólidas.
+- **Optimizar:** mejoro continuamente mis proyectos y procesos, apoyándome en la retroalimentación y en herramientas que aumenten mi eficiencia (como IA y automatización).
+
 
 ---
 
@@ -49,9 +50,11 @@ Aprender → Construir → Enseñar → Mejorar
 
 ## 🌱 Actualmente
 
-- 🔭 Fortaleciendo habilidades de arquitectura de software y buenas prácticas.
-- 📚 Diseñando experiencias educativas más interactivas para estudiantes de programación.
-- ⚙️ Explorando automatización de flujos de trabajo para aumentar productividad.
+- 🔭 Fortaleciendo lógica de programación y estructuras fundamentales para escribir código más limpio y eficiente.
+- ⚙️ Desarrollando proyectos prácticos (como simuladores) enfocados en buenas prácticas y organización del código.
+- 🧠 Mejorando en diseño de software: modularidad, reutilización y claridad en la arquitectura.
+- 📊 Trabajando con manejo de datos y lógica para construir sistemas más completos y funcionales.
+- 🤖 Integrando herramientas de IA para acelerar desarrollo y optimizar flujos de trabajo.
 
 ---
 
@@ -59,19 +62,19 @@ Aprender → Construir → Enseñar → Mejorar
 
 <p align="center">
   <a href="https://github.com/cristian7712">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristian7712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zenda0610&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/cristian7712">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristian7712&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zenda0610&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zenda0610&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristian7712&theme=tokyo-night&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenda0610&theme=tokyo-night&area=true" alt="activity graph" />
 </p>
 
 ---
