@@ -80,8 +80,7 @@ Aprender → Construir → Enseñar → Mejorar
 
 Si te interesa colaborar en proyectos de software, educación o tecnología con propósito, estaré encantado de conversar.
 
-- ✉️ **Email:** [cristian.diaz8918@gmail.com](mailto:cristian.diaz8918@gmail.com)
-- 🌐 **Portafolio:** [portafolio-personal-cristian-diaz.vercel.app](https://portafolio-personal-cristian-diaz.vercel.app/)
+- ✉️ **Email:** [davidlealperez5228@gmail.com](mailto:davidlealperez522@gmail.com)
 
 ---
 
